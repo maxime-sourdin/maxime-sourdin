@@ -2,19 +2,19 @@
 
 ### 👨‍💻 About me
 
-- 🇫🇷 I am a **Tech Lead Junior** based in France.
+- 💽 I am a **Tech Lead Junior** based in France, and I work at Orange Business Services.
 - 📜 I have a **[blog](https://maxime.sourdin.ovh/author/maxime-sourdin)**.
-- ✨ My favourite subjects: DevOps, GitOps, Automation, Monitoring, Hardening
+- ✨ My favourite subjects: DevOps, GitOps, Automation, Monitoring, Hardening.
 
 ### 🤝 Reach out to Me
 
-- ![Linkedin]([https://mastodon.technology/@maximesourdin](https://linkedin.com/in/maxime-sourdin-15b082154))
+- 💼 ![Linkedin]([https://mastodon.technology/@maximesourdin](https://linkedin.com/in/maxime-sourdin-15b082154))
 
-- **Email:** To get my email paste: `bWF4aW1lQHNvdXJkaW4ub3Zo` [here](https://www.base64decode.org/).
+- 📧 **Email:** To get my email paste: `bWF4aW1lQHNvdXJkaW4ub3Zo` [here](https://www.base64decode.org/).
 
-- [**Resume**](https://maxime.sourdin.ovh)
+- 📄 [**Resume**](https://maxime.sourdin.ovh)
 
-- ![Mastodon](https://mastodon.technology/@maximesourdin)
+- #️⃣ ![Mastodon](https://mastodon.technology/@maximesourdin)
 
 ### 📈 Github Stats
 
