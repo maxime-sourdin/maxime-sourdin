@@ -4,7 +4,7 @@
 maxime-sourdin@github.com
 -------------------------
 Job: Cloud engineer at Orange Business Services.
-22 years old
+23 years old
 ```
 ### 🤝 Contact
 
@@ -18,5 +18,5 @@ Job: Cloud engineer at Orange Business Services.
 
 ### 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=10&hide=shell,XSLT&theme=dark" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=10&hide=javascript,html,shell,XSLT,CSS,Markdown,JSON&theme=dark" width="400" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=maxime-sourdin&count_private=true&show_icons=true&theme=dark" width="400"/>
