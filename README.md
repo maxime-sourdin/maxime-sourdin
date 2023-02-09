@@ -18,5 +18,4 @@ Job: Cloud engineer at Orange Business Services.
 
 ### 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=10&hide=javascript,html,shell,XSLT,CSS,Markdown,JSON,Smarty&theme=dark" width="400" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=maxime-sourdin&count_private=true&show_icons=true&theme=dark" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=10&hide=javascript,html,shell,XSLT,CSS,Markdown,JSON,Smarty,Makefile&theme=dark" width="400" />
