@@ -18,4 +18,6 @@ Job: Cloud engineer at Orange Business Services.
 
 ### 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=10&hide=javascript,html,shell,XSLT,CSS,Markdown,JSON,Smarty,Makefile&theme=dark" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=20&hide=javascript,html,XSLT,CSS,Markdown,JSON,Smarty&theme=dark&layout=compact" width="400" />
+
+[![maxime-sourdin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximesourdin)](https://github.com/anuraghazra/github-readme-stats)
