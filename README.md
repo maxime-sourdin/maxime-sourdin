@@ -16,8 +16,8 @@ Job: Cloud engineer at Orange Business Services.
 
 - Linkedin: [linkedin.com/in/maxime-sourdin-15b082154](https://linkedin.com/in/maxime-sourdin-15b082154)
 
-### 📈 Github Stats
+### 📈 Repositories manager
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-sourdin&langs_count=20&hide=javascript,html,XSLT,CSS,Markdown,JSON,Smarty&theme=dark&layout=compact" width="400" />
+- Gitea: [gitea.sourdin.ovh/maxime](https://gitea.sourdin.ovh/maxime)
 
-[![maxime-sourdin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximesourdin)](https://github.com/anuraghazra/github-readme-stats)
+- Github: [github.com/maxime-sourdin](https://github.com/maxime-sourdin)
