@@ -16,7 +16,7 @@ Job: Cloud engineer at Orange Business Services.
 
 - Linkedin: [linkedin.com/in/maxime-sourdin-15b082154](https://linkedin.com/in/maxime-sourdin-15b082154)
 
-### 📈 Repositories manager
+### 📈 Git repositories
 
 - Gitea: [gitea.sourdin.ovh/maxime](https://gitea.sourdin.ovh/maxime)
 
