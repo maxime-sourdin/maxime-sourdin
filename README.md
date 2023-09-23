@@ -8,9 +8,7 @@ Job: Cloud engineer at Orange Business Services.
 ```
 ### 🤝 Contact
 
-- Blog: **[maxime.sourdin.ovh/author/maxime-sourdin](https://maxime.sourdin.ovh/author/maxime-sourdin)**.
-
-- Resume: [**maxime.sourdin.ovh/cv**](https://maxime.sourdin.ovh/cv)
+- Resume: [**maxime.sourdin.ovh/cv**](https://maxime.sourdin.ovh/cv.html)
 
 - Email:  Paste `bWF4aW1lQHNvdXJkaW4ub3Zo` [here](https://www.base64decode.org/)
 
@@ -19,5 +17,3 @@ Job: Cloud engineer at Orange Business Services.
 ### 📈 Git repositories
 
 - Gitea: [gitea.sourdin.ovh/maxime](https://gitea.sourdin.ovh/maxime)
-
-- Github: [github.com/maxime-sourdin](https://github.com/maxime-sourdin)
